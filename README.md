@@ -7,15 +7,11 @@ I have cloned the homepage/landing page of Google using HTML and CSS.
 
 # 💥 How to Contribute
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Susmita-Dey/Google-Homepage-Clone-With-HTML-CSS
-/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Susmita-Dey/Google-Homepage-Clone-With-HTML-CSS/pulls)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-- Take a look at the existing [Issues](https://github.com/Susmita-Dey/Google-Homepage-Clone-With-HTML-CSS
-/issues) or [create a new issue](https://github.com/Susmita-Dey/Google-Homepage-Clone-With-HTML-CSS
-/issues/new/choose)!
-- [Fork the Repo](https://github.com/Susmita-Dey/Google-Homepage-Clone-With-HTML-CSS
-/fork), create a branch for any issue that you are working on and commit your work.
+- Take a look at the existing [Issues](https://github.com/Susmita-Dey/Google-Homepage-Clone-With-HTML-CSS/issues) or [create a new issue](https://github.com/Susmita-Dey/Google-Homepage-Clone-With-HTML-CSS/issues/new/choose)!
+- [Fork the Repo](https://github.com/Susmita-Dey/Google-Homepage-Clone-With-HTML-CSS/fork), create a branch for any issue that you are working on and commit your work.
 - Create a **[Pull Request](https://github.com/Susmita-Dey/Google-Homepage-Clone-With-HTML-CSS/compare)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
 - Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes that are included in your commits.
 
